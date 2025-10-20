@@ -1,6 +1,3 @@
 pytest
-<<<<<<< HEAD
 pytest--pylint
-=======
-pytest-pylint
->>>>>>> 0adb6f9cfc4b94c338b8496c59bbb790838f8ffc
+
