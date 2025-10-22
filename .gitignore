@@ -1,3 +1,20 @@
+<<<<<<< HEAD
+# Ignore virtual environment
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore PyCharm files
+.idea/git add .
+
+*.iml
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+=======
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -169,3 +186,4 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+>>>>>>> 0adb6f9cfc4b94c338b8496c59bbb790838f8ffc
